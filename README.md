@@ -46,7 +46,7 @@ rock-paper-scissors/
 
 🧠 GAME LOGIC
 
-1. Rocl beats Scissors
+1. Rock beats Scissors
 2. Scissors beats paper
 3. Paper beats Rock
 4. If both choices are the same, it's a draw
