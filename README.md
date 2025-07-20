@@ -2,6 +2,7 @@
 
 A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Play against the computer and see who wins!
 
+
 🕹️ FEATURES
 1. User vs Computer gameplay
 2. Real-time score updates
@@ -9,16 +10,19 @@ A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and Jav
 4. Visual feedback for win, lose or draw
 5. Clean and responsive UI
 
+
 📷 DEMO
 
 <img width="400" height="370" alt="Image" src="https://github.com/user-attachments/assets/e472f49b-71ec-44b1-8662-07cb8366ad37" />
 
 [CLICK HERE](https://gayathri2707.github.io/Rock-Paper-Scissors/) to play now!
 
+
 💻 TECHNOLOGIES USED
 1. HTML
 2. CSS
 3. JavaScript
+
 
 🚀 HOW TO RUN
 
@@ -30,6 +34,7 @@ cd rock-paper-scissors
 
 3.Open index.html in your browser.
 
+
 📁 FILE STRUCTURE
 
 rock-paper-scissors/
@@ -38,12 +43,14 @@ rock-paper-scissors/
 ├── javascript.js
 └── README.md
 
+
 🧠 GAME LOGIC
 
-Rock beats Scissors
-Scissors beats Paper
-Paper beats Rock
-If both choices are the same, it's a draw
+1.Rock beats Scissors
+2.Scissors beats Paper
+3.Paper beats Rock
+4.If both choices are the same, it's a draw
+
 
 🙌 AUTHOR
 
