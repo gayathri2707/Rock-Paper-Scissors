@@ -11,8 +11,7 @@ A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and Jav
 📷 DEMO
 <img width="975" height="819" alt="Image" src="https://github.com/user-attachments/assets/e472f49b-71ec-44b1-8662-07cb8366ad37" />
 
-Click below to play Live!
-https://gayathri2707.github.io/Rock-Paper-Scissors/
+[CLICK HERE](https://gayathri2707.github.io/Rock-Paper-Scissors/) to play now!
 
 💻 TECHNOLOGIES USED
 1. HTML
